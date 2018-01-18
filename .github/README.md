@@ -6,7 +6,7 @@
 
 # DockerDevEnv
 
-Docker PHP Development Environment
+Docker Development Environment
 
 ## Tools
 
